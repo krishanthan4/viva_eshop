@@ -1,10 +1,13 @@
 <h1 align="center">E-Commerce Web Application</h1>
 
-## This Web project made for MVC architecture .The tech stack is PHP,Tailwindcss,TailwindUI components,javascript, HTML and CSS.
+This Web project made for MVC architecture .The tech stack is PHP,Tailwindcss,TailwindUI components,javascript, HTML and CSS.
+<br/>
 
 ![image](https://github.com/krishanthan4/viva_eshop/assets/122454062/754c7027-10b4-42d3-ab12-cc74d46c2f93)
+<br/>
 
 ![image](https://github.com/krishanthan4/viva_eshop/assets/122454062/ec3afa28-45aa-4e05-a13c-f7ad4870ee70)
+<br/>
 
 
 ## To run the project locally,
